@@ -683,7 +683,7 @@
       let inputs = document.createElement('div');
       inputs.className = 'igc__inputs';
       inputs.innerHTML = '' +
-        '<div class="igc__field"><label class="igc__field-label">Revenue</label><input class="igc__input" data-key="revenue" type="text" /></div>' +
+        '<div class="igc__field"><label class="igc__field-label">Starting Revenue</label><input class="igc__input" data-key="revenue" type="text" /></div>' +
         '<div class="igc__field"><label class="igc__field-label">Gross margin</label><input class="igc__input" data-key="grossMargin" type="text" /></div>' +
         '<div class="igc__field"><label class="igc__field-label">Fixed expenses</label><input class="igc__input" data-key="fixed" type="text" /></div>' +
         '<div class="igc__field"><label class="igc__field-label">Growth rate</label><input class="igc__input" data-key="growth" type="text" /></div>';
